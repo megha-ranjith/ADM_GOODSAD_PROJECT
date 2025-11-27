@@ -3,7 +3,7 @@
 Detects defective retail items in images using **deep visual features + KNN memory** — no need for labeled defect examples at training!  
 A micro-project for Advanced Data Mining (MTech CSE), using the [PKU-GoodsAD](https://github.com/jianzhang96/GoodsAD) dataset and automated feature learning with ResNet18.
 
----
+--- 
 
 ## 📖 Project Overview
 
